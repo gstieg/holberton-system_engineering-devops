@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Write a Bash script that loops from 1 to 10 and:
+a=0
+while [ $a -le 10 ]
+do
+    echo "Holberton School"
+    if [ $a -eq 4 ]
+    then
+	echo "bad luck"
+    elif [ $a -eq 8 ]
+    then
+	echo "good luck"
+    fi
+    (( a++ ))
+done
