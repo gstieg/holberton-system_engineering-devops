@@ -3,12 +3,13 @@
 a=1
 while [ $a -le 10 ]
 do
-    echo "bad luck"
     if [ $a -eq 4 ]
     then
-	echo "good luck"
+	echo "bad luck"
     elif [ $a -eq 8 ]
     then
+	echo "good luck"
+    else
 	echo "Holberton School"
     fi
     (( a++ ))
