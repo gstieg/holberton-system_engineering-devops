@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
 # Write a Bash script that loops from 1 to 10 and:
-a=0
+a=1
 while [ $a -le 10 ]
 do
-    echo "Holberton School"
+    echo "bad luck"
     if [ $a -eq 4 ]
     then
-	echo "bad luck"
+	echo "good luck"
     elif [ $a -eq 8 ]
     then
-	echo "good luck"
+	echo "Holberton School"
     fi
     (( a++ ))
 done
