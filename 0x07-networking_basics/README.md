@@ -1,14 +1,12 @@
-
-
 # **0x07. Networking basics #0**
 
-**Resources**
-
-     * OSI model
-     * Different types of network
-     * LAN network
-     * WAN network
-     * Internet
+ **Resources**
+ 
+      * OSI model
+      * Different types of network
+      * LAN network
+      * WAN network
+      * Internet
      * MAC address
      * What is an IP address
      * Private and public address
@@ -50,5 +48,4 @@
      * What is the main difference between TCP and UDP
      * What is a port
      * Memorize SSH, HTTP and HTTPS port numbers
-     * What tool/protocol is often used to check if a device is connected to a network
-
+    * What tool/protocol is often used to check if a device is connected to a network
