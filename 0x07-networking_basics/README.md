@@ -1,4 +1,4 @@
-![OSI model](osi model.png)
+![OSI model](osi/ model.png)
 
 # **0x07. Networking basics #0**
 
