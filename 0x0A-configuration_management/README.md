@@ -23,8 +23,9 @@
 	* Your Puppet manifests files must end with the extension .pp
 # **Tasks**
 
-#0
- Using Puppet, create a file in /tmp.
+**#0**
+
+Using Puppet, create a file in /tmp.
 
 Requirements:
 
@@ -34,8 +35,8 @@ File owner is www-data
 File group is www-data
 File contains I love Puppet
 
+**#1**
 
-#1
 Using Puppet, install puppet-lint.
 
 Requirements:
@@ -43,7 +44,7 @@ Requirements:
 Install puppet-lint
 Version must be 2.1.1
 
-#3
+**#3**
 
 Using Puppet, create a manifest that kills a process named killmenow.
 
