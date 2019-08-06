@@ -1,5 +1,6 @@
 # **0x0B. SSH**
 
+![ssh gif](ssh.gif)
 
 # **Resources**
 
