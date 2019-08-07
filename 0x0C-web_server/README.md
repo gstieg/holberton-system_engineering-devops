@@ -1,5 +1,7 @@
 # **0x0C. Web server**
 
+![web server](webserver.png)
+
 # **Resources**
 
 **Read or watch:**
