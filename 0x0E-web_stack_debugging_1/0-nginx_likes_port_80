@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Nginx likes port 80
-sed -i /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+# Nginx likes port 80 ln linking between files -s making symbolic link, f remove
+ln -sf  /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 service nginx restart
