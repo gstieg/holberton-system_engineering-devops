@@ -1,6 +1,6 @@
 # **0x0E. Web stack debugging #1**
 
-
+![Debugging #1](debug.jpg)
 
 # **Requirements**
 
