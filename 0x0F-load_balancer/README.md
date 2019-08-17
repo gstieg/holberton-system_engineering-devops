@@ -1,5 +1,7 @@
 # **0x0F. Load balancer**
 
+![Load Balancer](load.png)
+
 
 # **Resources**
 
