@@ -1,7 +1,7 @@
 # **0x10. HTTPS SSL**
 
 
-![Https](https.
+![Https](https.png)
 
 
 # **Resources**
