@@ -1,5 +1,7 @@
 # **0x16. API advanced**
 
+![API Advanced](api2.png)
+
 # **Resources**
 
 **Read or watch:**
