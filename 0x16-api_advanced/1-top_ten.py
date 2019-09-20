@@ -12,6 +12,6 @@ def top_ten(subreddit):
     u = url.json()
     for i in range(10):
         try:
-            print(u()('data')('children')[i]['data']['title'])
+            print(('data')('children')[i]['data']['title'])
         except Exception:
             print(None)
