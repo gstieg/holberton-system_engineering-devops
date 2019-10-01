@@ -1,6 +1,6 @@
 # **0x18. Webstack monitoring**
 
-![Monitoring](
+![Monitoring](monitor.png)
 
 # **Resources**
 
